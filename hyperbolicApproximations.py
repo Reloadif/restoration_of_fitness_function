@@ -122,4 +122,3 @@ for i in range(0, len(fitnessArray)):
 
 for i in range(0, len(trueFitnessArray)):
     print(trueArrayOfA1[i], trueArrayOfB1[i], trueArrayOfA2[i], trueArrayOfB2[i], trueFitnessArray[i])
-
